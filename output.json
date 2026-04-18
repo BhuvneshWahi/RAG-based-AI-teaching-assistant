@@ -1,0 +1,19 @@
+{
+    "text": "",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.48,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -5.32979154586792,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.5753610134124756,
+            "words": []
+        }
+    ],
+    "language": "hi"
+}

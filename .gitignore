@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+.env
+venv/
+embeddings/
+new_jsons/
+jsons/
+audios/
+videos/
+jsons_use/
+ffmpeg-N-123858-g0510aff11b-win64-gpl/
+*.exe
