@@ -157,7 +157,7 @@ ollama run llama3.2
 ---
 
 ## 👨‍💻 Author
-
+Bhuvnesh Wahi
 Built as part of hands-on learning in **RAG Systems & AI Development**
 
 ---
